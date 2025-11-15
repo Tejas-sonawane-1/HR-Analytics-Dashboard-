@@ -93,7 +93,7 @@ These employees may feel less engaged or underutilized.
 ---
 
 # 🤝 Connect With Me
-GitHub: <a href="github.com/Tejas-sonawane-1" > Tejas Sonawane's Github </a>
+GitHub: <a href="github.com/Tejas-sonawane-1" > Tejas Sonawane's Github </a> <br>
 LinkedIn: your link: <a href="https://www.linkedin.com/in/tejas-sonawane-33971b304/" > Tejas Sonawane's LinkedIn </a>
 
 [View the Dashboard Report](https://github.com/Tejas-sonawane-1/HR-Analytics-Dashboard-/blob/main/HR%20Dashboard%20Final.pdf)
